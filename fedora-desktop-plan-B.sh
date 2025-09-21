@@ -7,7 +7,7 @@
 
 ### 自动脚本
 ### dnf install -y wget
-### wget -O - https://raw.githubusercontent.com/cooip-jm/About-openwrt/main/fedora-desktop-plan-B.sh | sh -s -- -v
+### wget -O - https://raw.githubusercontent.com/cooip-jm/About-openwrt/refs/heads/main/fedora-desktop-plan-B.sh | sh -s -- -v
 
 
 # 宿主系统推荐挂载
